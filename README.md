@@ -1,2 +1,1 @@
-# prepcourse-henry-2
-repositorio prueba
+repositorio para como crearlo en git hub
